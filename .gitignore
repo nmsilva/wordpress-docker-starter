@@ -33,12 +33,15 @@ ftpsync.settings
 # WORDPRESS STUFF
 # THEMES
 wordpress/themes/*
+!wordpress/themes/sample
 # your development theme
 !/wordpress/themes/theme-name
 
 # PLUGINS
 wordpress/plugins/*
+!wordpress/plugins/sample
 
 # UPLOADS
 wordpress/uploads/*
+!wordpress/plugins/sample
 
